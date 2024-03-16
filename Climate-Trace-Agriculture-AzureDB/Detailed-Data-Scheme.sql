@@ -1,0 +1,56 @@
+DROP TABLE IF EXISTS "Detailed-Data-Scheme";
+
+
+CREATE TABLE "Detailed-Data-Scheme" (
+    sector VARCHAR(100),
+    sub_sector VARCHAR(100),
+    emissions_source_definition VARCHAR(255),
+    data_available_through VARCHAR(100),
+    source_id VARCHAR(255),
+    source_name VARCHAR(255),
+    source_type VARCHAR(255),
+    iso3_country VARCHAR(255),
+    original_inventory_sector VARCHAR(255),
+    start_time VARCHAR(255),
+    end_time VARCHAR(255),
+    lat VARCHAR(255),
+    lon VARCHAR(255),
+    geometry_ref VARCHAR(255),
+    gas VARCHAR(500),
+    emissions_quantity VARCHAR(255),
+    temporal_granularity VARCHAR(255),
+    activity VARCHAR(255),
+    activity_units VARCHAR(255),
+    emissions_factor VARCHAR(255),
+    emissions_factor_units VARCHAR(255),
+    capacity VARCHAR(255),
+    capacity_units VARCHAR(255),
+    capacity_factor VARCHAR(255),
+    capacity_factor_units VARCHAR(255),
+    other1 VARCHAR(255),
+    other1_def VARCHAR(255),
+    other2 VARCHAR(255),
+    other2_def VARCHAR(255),
+    other3 VARCHAR(255),
+    other3_def VARCHAR(255),
+    other4 VARCHAR(255),
+    other4_def VARCHAR(255),
+    other5 VARCHAR(255),
+    other5_def VARCHAR(255),
+    other6 VARCHAR(255),
+    other6_def VARCHAR(255),
+    other7 VARCHAR(255),
+    other7_def VARCHAR(255),
+    other8 VARCHAR(255),
+    other8_def VARCHAR(255),
+    other9 VARCHAR(255),
+    other9_def VARCHAR(255),
+    other10 VARCHAR(255),
+    other10_def VARCHAR(255),
+    created_date VARCHAR(255),
+    modified_date VARCHAR(255)
+);
+
+-- \COPY "Detailed-Data-Scheme" (sector, sub_sector, emissions_source_definition, data_available_through, source_id, source_name, source_type, iso3_country, original_inventory_sector, start_time, end_time, lat, lon, geometry_ref, gas, emissions_quantity, temporal_granularity, activity, activity_units, emissions_factor, emissions_factor_units, capacity, capacity_units, capacity_factor, capacity_factor_units, other1, other1_def, other2, other2_def, other3, other3_def, other4, other4_def, other5, other5_def, other6, other6_def, other7, other7_def, other8, other8_def, other9, other9_def, other10, other10_def, created_date, modified_date)
+-- FROM '/Users/nyagaderrick/Developer/Climate TRACE agriculture data/Detailed-data-schema.csv'
+-- DELIMITER ',' CSV HEADER;

@@ -29,4 +29,3 @@ CREATE TABLE "cropland-fires_emissions-sources_confidence"
 -- FROM '/Users/nyagaderrick/Developer/Climate TRACE agriculture data/cropland-fires_emissions-sources_confidence.csv' 
 -- DELIMITER ',' CSV HEADER;
 
--- psql -U postgres -d climate_trace_agriculture_db -h localhost
