@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/Climate-Trace-Agriculture-AzureDB.sqlproj": {}
+  },
+  "projects": {
+    "/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/Climate-Trace-Agriculture-AzureDB.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/Climate-Trace-Agriculture-AzureDB.sqlproj",
+        "projectName": "Climate-Trace-Agriculture-AzureDB",
+        "projectPath": "/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/Climate-Trace-Agriculture-AzureDB.sqlproj",
+        "packagesPath": "/Users/nyagaderrick/.nuget/packages/",
+        "outputPath": "/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/nyagaderrick/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/bin/Debug/Climate-Trace-Agriculture-AzureDB.dacpac
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/Debug/Model.xml
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/Debug/refactor.xml
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/Debug/postdeploy.sql
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/Debug/predeploy.sql
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/Debug/Climate-Trace-Agriculture-AzureDB.dll
+/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/obj/Debug/Climate-Trace-Agriculture-AzureDB.pdb

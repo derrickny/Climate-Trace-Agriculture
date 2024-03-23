@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6wjrTK03xC/pdbSj1nh+AZYasEtMj19/aZW2uyVdhJHTC1rWwiP+6MeEpI62ymQvGm1awUdV1vLTRjo5qKftg==",
+  "success": true,
+  "projectFilePath": "/Users/nyagaderrick/Developer/Climate-Trace-Agriculture/Climate-Trace-Agriculture-AzureDB/Climate-Trace-Agriculture-AzureDB.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/nyagaderrick/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/nyagaderrick/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
